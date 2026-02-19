@@ -98,9 +98,11 @@ https://pokedex-2024-1.netlify.app/
 Josset Portuguez
 Auxiliar de TI | Desarrollador Web Frontend
 Perú
+
 -------------------------------------------
 
 ⭐ Valor Profesional
 
 Este proyecto demuestra mi capacidad para desarrollar aplicaciones web dinámicas, consumir APIs externas y desplegar soluciones funcionales en entornos reales.
+
 -------------------------
