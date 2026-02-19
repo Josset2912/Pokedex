@@ -34,6 +34,7 @@ https://pokedex-2024-1.netlify.app/
 🧠 Objetivo del Proyecto
 
 El objetivo fue desarrollar una aplicación web interactiva que consuma datos dinámicos desde una API y los muestre en una interfaz amigable, aplicando buenas prácticas de desarrollo frontend.
+
 -------------------------------------
 🛠️ Tecnologías Utilizadas
 * HTML5
