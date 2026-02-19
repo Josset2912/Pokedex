@@ -17,8 +17,6 @@ https://pokedex-2024-1.netlify.app/
 
 ✔ Visualización de lista de Pokémon
 
-✔ Búsqueda por nombre
-
 ✔ Visualización de imagen y tipo
 
 ✔ Interfaz intuitiva y amigable
