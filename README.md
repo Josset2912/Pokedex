@@ -1,5 +1,6 @@
 -------------------------------------------------------------------------------------------------------
 📱 Pokédex Web App – Explorador de Pokémon
+-------------------------------
 🌐 Demo en vivo:
 https://pokedex-2024-1.netlify.app/
 ----------------
@@ -15,12 +16,19 @@ https://pokedex-2024-1.netlify.app/
 🚀 Características Principales
 
 ✔ Visualización de lista de Pokémon
+
 ✔ Búsqueda por nombre
+
 ✔ Visualización de imagen y tipo
+
 ✔ Interfaz intuitiva y amigable
+
 ✔ Diseño responsive
+
 ✔ Navegación fluida
+
 ✔ Despliegue en Netlify
+
 
 --------------------------
 🧠 Objetivo del Proyecto
